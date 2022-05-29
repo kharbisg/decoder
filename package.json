@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kharbisg/decoder#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "slugify": "^1.6.5"
   },
   "devDependencies": {

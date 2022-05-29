@@ -1,0 +1,4 @@
+{
+    "sgx" : {"market_data": true, "order_entry": true, "market_data_sample_msg" : "", "order_entry_sample_msg":""},
+    "asx" : {"market_data": true, "order_entry": true, "market_data_sample_msg" : "", "order_entry_sample_msg":""}
+}
