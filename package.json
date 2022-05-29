@@ -1,0 +1,25 @@
+{
+  "name": "decode",
+  "version": "1.0.0",
+  "description": "decoder for exchange mkt data and order entry msgs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharbisg/decoder.git"
+  },
+  "author": "kharbisg@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharbisg/decoder/issues"
+  },
+  "homepage": "https://github.com/kharbisg/decoder#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
